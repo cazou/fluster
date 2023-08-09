@@ -5,7 +5,7 @@ name: fluster
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, wip ]
   pull_request:
     branches: [ master ]
 
