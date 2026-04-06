@@ -44,6 +44,7 @@ class TestVector:
         output_format: OutputFormat,
         result: str,
         profile: Optional[Profile] = None,
+        afbc_result: Optional[str] = None,
     ):
         # JSON members
         self.name = name
@@ -53,6 +54,7 @@ class TestVector:
         self.profile = profile
         self.output_format = output_format
         self.result = result
+        self.afbc_result = afbc_result
 
         # Not included in JSON
         self.test_result = TestVectorResult.NOT_RUN
@@ -84,6 +86,8 @@ class TestVector:
             data["profile"] = str(self.profile.value)
         else:
             data.pop("profile")
+        if self.afbc_result is None:
+            data.pop("afbc_result")
         return data
 
     def __str__(self) -> str:
@@ -94,4 +98,6 @@ class TestVector:
             f"            Profile: {self.profile}\n"
             f"            Result: {self.result}"
         )
+        if self.afbc_result is not None:
+            ret += f"\n            AFBC Result: {self.afbc_result}"
         return ret

@@ -275,6 +275,8 @@ class GStreamerVideoAFBC(GStreamerVideo):
       v4l2sl*dec ! DMABuf caps ! glupload ! glcolorconvert ! gldownload ! videoconvert
     """
 
+    is_afbc = True
+
     def gen_pipeline(
         self,
         input_filepath: str,

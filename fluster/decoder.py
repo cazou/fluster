@@ -33,6 +33,7 @@ class Decoder(ABC):
     description = ""
     binary = ""
     is_reference = False
+    is_afbc = False
 
     def __init__(self) -> None:
         if self.binary:

@@ -121,7 +121,10 @@ class Test(unittest.TestCase):
 
         if self.reference:
             self.test_vector_result.test_result = TestVectorResult.REFERENCE
-            self.test_vector_result.result = result
+            if self.decoder.is_afbc:
+                self.test_vector_result.afbc_result = result
+            else:
+                self.test_vector_result.result = result
         else:
             try:
                 self.compare_result(result)
@@ -144,7 +147,10 @@ class MD5ComparisonTest(Test):
 
     def compare_result(self, result: str) -> None:
         """Compare MD5 hash results."""
-        expected = self.test_vector.result.lower()
+        if self.decoder.is_afbc and self.test_vector.afbc_result:
+            expected = self.test_vector.afbc_result.lower()
+        else:
+            expected = self.test_vector.result.lower()
         actual = result.lower()
 
         self.assertEqual(expected, actual, self.test_vector.name)
