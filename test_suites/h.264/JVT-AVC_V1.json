@@ -10,7 +10,8 @@
             "input_file": "AUD_MW_E.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "e96fe5054de0329a8868d06003375cdb"
+            "result": "e96fe5054de0329a8868d06003375cdb",
+            "afbc_result": "d75b2d71df9a0cd7d9a6491ad5cd8a69"
         },
         {
             "name": "BA1_FT_C",
@@ -19,7 +20,8 @@
             "input_file": "BA1_FT_C.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "4f2da01d1d1ae7b99bea3fe1fb9e8ef4"
+            "result": "4f2da01d1d1ae7b99bea3fe1fb9e8ef4",
+            "afbc_result": "01267b4dfd9458029d443297ab70194c"
         },
         {
             "name": "BA1_Sony_D",
@@ -28,7 +30,8 @@
             "input_file": "BA1_Sony_D.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "114d1cf94a2fcaffda0cf1b49964bf3d"
+            "result": "114d1cf94a2fcaffda0cf1b49964bf3d",
+            "afbc_result": "5a28a3936afda37b0df87cff3fb3b5e4"
         },
         {
             "name": "BA2_Sony_F",
@@ -37,7 +40,8 @@
             "input_file": "BA2_Sony_F.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "124d28307b05702812a374cfc9aad615"
+            "result": "124d28307b05702812a374cfc9aad615",
+            "afbc_result": "7c851d3eb0e5afdd5fdd7334611aee7a"
         },
         {
             "name": "BA3_SVA_C",
@@ -46,7 +50,8 @@
             "input_file": "BA3_SVA_C.264",
             "profile": "Extended",
             "output_format": "yuv420p",
-            "result": "7518b0f80c079db0a51aa4e0c84aea95"
+            "result": "7518b0f80c079db0a51aa4e0c84aea95",
+            "afbc_result": "3b480807206f5197c58599da0159fe88"
         },
         {
             "name": "BA_MW_D",
@@ -55,7 +60,8 @@
             "input_file": "BA_MW_D.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "7d5d351ad061640294bf43a43150fbca"
+            "result": "7d5d351ad061640294bf43a43150fbca",
+            "afbc_result": "d848d4db916849ec0bac86373d54c552"
         },
         {
             "name": "BAMQ1_JVC_C",
@@ -64,7 +70,8 @@
             "input_file": "BAMQ1_JVC_C.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "bad372deef52c08fc1e384ecd1a43137"
+            "result": "bad372deef52c08fc1e384ecd1a43137",
+            "afbc_result": "6b194d5b4a1270c0b1c18b026d9b4a2f"
         },
         {
             "name": "BAMQ2_JVC_C",
@@ -73,7 +80,8 @@
             "input_file": "BAMQ2_JVC_C.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "e3f5d5b0774b55370745f2d04f009575"
+            "result": "e3f5d5b0774b55370745f2d04f009575",
+            "afbc_result": "d16bad37b4e18840cd1ac0996f108a61"
         },
         {
             "name": "BANM_MW_D",
@@ -82,7 +90,8 @@
             "input_file": "BANM_MW_D.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "e637d38ed004df3540218e3d84b43e42"
+            "result": "e637d38ed004df3540218e3d84b43e42",
+            "afbc_result": "4bce45c9b76d89623f279204110c3cbd"
         },
         {
             "name": "BASQP1_Sony_C",
@@ -91,7 +100,8 @@
             "input_file": "BASQP1_Sony_C.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "9e9c06cfc882a3f618b6ad40811c1331"
+            "result": "9e9c06cfc882a3f618b6ad40811c1331",
+            "afbc_result": "bc3662783473bb7fe334670169d58281"
         },
         {
             "name": "CABA1_Sony_D",
@@ -100,7 +110,8 @@
             "input_file": "CABA1_Sony_D.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "24b155a400dc10d11d45a3aadf61ae25"
+            "result": "24b155a400dc10d11d45a3aadf61ae25",
+            "afbc_result": "f1bc0449ce1ad536991c27d9afed8601"
         },
         {
             "name": "CABA1_SVA_B",
@@ -109,7 +120,8 @@
             "input_file": "CABA1_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "2f5cabd5bb4954c0386cafd8a9aa782a"
+            "result": "2f5cabd5bb4954c0386cafd8a9aa782a",
+            "afbc_result": "2beea92961f28ba216c79110d3fb0249"
         },
         {
             "name": "CABA2_Sony_E",
@@ -118,7 +130,8 @@
             "input_file": "CABA2_Sony_E.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "3731f0f1ace3ad9176093a7b46347cea"
+            "result": "3731f0f1ace3ad9176093a7b46347cea",
+            "afbc_result": "7025ef2c43093b564fe4500c8a3c519e"
         },
         {
             "name": "CABA2_SVA_B",
@@ -127,7 +140,8 @@
             "input_file": "CABA2_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6d4277a7fc70ed1fbe3c5f10b0a70671"
+            "result": "6d4277a7fc70ed1fbe3c5f10b0a70671",
+            "afbc_result": "147b3e92fbd66b0ddbc585c75aa24c64"
         },
         {
             "name": "CABA3_Sony_C",
@@ -136,7 +150,8 @@
             "input_file": "CABA3_Sony_C.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "28c778fdcf189aff70095db52572456b"
+            "result": "28c778fdcf189aff70095db52572456b",
+            "afbc_result": "a78c842bffc6fda2a91476cc95fb8290"
         },
         {
             "name": "CABA3_SVA_B",
@@ -145,7 +160,8 @@
             "input_file": "CABA3_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "63a0f8fdcbb87b0dff330acdd10905c0"
+            "result": "63a0f8fdcbb87b0dff330acdd10905c0",
+            "afbc_result": "2f403499f3b10d18e1fe49d23a0968fe"
         },
         {
             "name": "CABA3_TOSHIBA_E",
@@ -154,7 +170,8 @@
             "input_file": "CABA3_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "13651d01c5b533e6b7aa132bae7669ed"
+            "result": "13651d01c5b533e6b7aa132bae7669ed",
+            "afbc_result": "b446f1d9c66a1614263663cb31cc248a"
         },
         {
             "name": "cabac_mot_fld0_full",
@@ -172,7 +189,8 @@
             "input_file": "camp_mot_frm0_full.26l",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1b518423b2136df333f33124b574fb94"
+            "result": "1b518423b2136df333f33124b574fb94",
+            "afbc_result": "994b9c1dadb27006fb10b5312afdc4b4"
         },
         {
             "name": "cabac_mot_mbaff0_full",
@@ -199,7 +217,8 @@
             "input_file": "CABACI3_Sony_B.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "095fc22b46f0822be4699dcc47d912c1"
+            "result": "095fc22b46f0822be4699dcc47d912c1",
+            "afbc_result": "40cdc1083c1134ce3182dff5a1b206fe"
         },
         {
             "name": "CABAST3_Sony_E",
@@ -208,7 +227,8 @@
             "input_file": "CABAST3_Sony_E.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e95f27c3779af519c1a317adb2f699a5"
+            "result": "e95f27c3779af519c1a317adb2f699a5",
+            "afbc_result": "285d3f89ed96deb0810cfcb03303a7a0"
         },
         {
             "name": "CABASTBR3_Sony_B",
@@ -217,7 +237,8 @@
             "input_file": "CABASTBR3_Sony_B.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "71d8c963c6c5216d75567b3b47d054d6"
+            "result": "71d8c963c6c5216d75567b3b47d054d6",
+            "afbc_result": "7f954a4e6cea6f487af39f81b17f209f"
         },
         {
             "name": "CABREF3_Sand_D",
@@ -235,7 +256,8 @@
             "input_file": "CACQP3_Sony_D.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "dfc2c76e559e61c0e3e2922005dc805e"
+            "result": "dfc2c76e559e61c0e3e2922005dc805e",
+            "afbc_result": "cf2028d9dd6d4014b81a019a23cb0dd0"
         },
         {
             "name": "CAFI1_SVA_C",
@@ -370,7 +392,8 @@
             "input_file": "CANL1_Sony_E.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "27f1d5d389e110fc320788bf78006db0"
+            "result": "27f1d5d389e110fc320788bf78006db0",
+            "afbc_result": "9576bb665e7517b3de78b5ccd0e5528b"
         },
         {
             "name": "CANL1_SVA_B",
@@ -379,7 +402,8 @@
             "input_file": "CANL1_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "b02defcb741c0e982313c5749f2008ed"
+            "result": "b02defcb741c0e982313c5749f2008ed",
+            "afbc_result": "6ba8da9d9750a6550cc6d88442713456"
         },
         {
             "name": "CANL1_TOSHIBA_G",
@@ -388,7 +412,8 @@
             "input_file": "CANL1_TOSHIBA_G.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "afa072746b16bd96f3152b45e2f2881e"
+            "result": "afa072746b16bd96f3152b45e2f2881e",
+            "afbc_result": "fe5d763a6c7c9c4aac53f8eb7beb3458"
         },
         {
             "name": "CANL2_Sony_E",
@@ -397,7 +422,8 @@
             "input_file": "CANL2_Sony_E.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "3a28438e3e0795deaed795fcfefbc833"
+            "result": "3a28438e3e0795deaed795fcfefbc833",
+            "afbc_result": "c7f04ca222474d37c8c8e4d535fa3d60"
         },
         {
             "name": "CANL2_SVA_B",
@@ -406,7 +432,8 @@
             "input_file": "CANL2_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "b02defcb741c0e982313c5749f2008ed"
+            "result": "b02defcb741c0e982313c5749f2008ed",
+            "afbc_result": "6ba8da9d9750a6550cc6d88442713456"
         },
         {
             "name": "CANL3_Sony_C",
@@ -415,7 +442,8 @@
             "input_file": "CANL3_Sony_C.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "d8ce9d2faa54ce3294ad1553c440cde9"
+            "result": "d8ce9d2faa54ce3294ad1553c440cde9",
+            "afbc_result": "570c00ea00ad0690576446b7c7dc5712"
         },
         {
             "name": "CANL3_SVA_B",
@@ -424,7 +452,8 @@
             "input_file": "CANL3_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "04a6de984ef88d1b8c1b26fc8f33a425"
+            "result": "04a6de984ef88d1b8c1b26fc8f33a425",
+            "afbc_result": "90aff82127d46053ee94836dd1acb64a"
         },
         {
             "name": "CANL4_SVA_B",
@@ -433,7 +462,8 @@
             "input_file": "CANL4_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "cf398be00ac522c5d35b11869a05ef35"
+            "result": "cf398be00ac522c5d35b11869a05ef35",
+            "afbc_result": "52c90a63d2a791f11b1d5e030645cf94"
         },
         {
             "name": "CANLMA2_Sony_C",
@@ -478,7 +508,8 @@
             "input_file": "CAPCM1_Sand_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "ca073ca106e70d5cd51f67485846a5b1"
+            "result": "ca073ca106e70d5cd51f67485846a5b1",
+            "afbc_result": "20998d3f2084cbe09b3d86bdf7c78262"
         },
         {
             "name": "CAPCMNL1_Sand_E",
@@ -487,7 +518,8 @@
             "input_file": "CAPCMNL1_Sand_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "ee9968eeefe935f045c6b70be51691eb"
+            "result": "ee9968eeefe935f045c6b70be51691eb",
+            "afbc_result": "525b9539909246451d49ae08d921de2a"
         },
         {
             "name": "CAPM3_Sony_D",
@@ -496,7 +528,8 @@
             "input_file": "CAPM3_Sony_D.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9ecc3bf5ff7cac9a068a5ba57bc87cb7"
+            "result": "9ecc3bf5ff7cac9a068a5ba57bc87cb7",
+            "afbc_result": "0cf976b3712f2a2ef31c3af4b46a45b0"
         },
         {
             "name": "CAQP1_Sony_B",
@@ -505,7 +538,8 @@
             "input_file": "CAQP1_Sony_B.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "cac07eaabd141764d64cf9de0230a92e"
+            "result": "cac07eaabd141764d64cf9de0230a92e",
+            "afbc_result": "95a576edad5d142146ed6284633ae95b"
         },
         {
             "name": "cavlc_mot_fld0_full_B",
@@ -523,7 +557,8 @@
             "input_file": "cvmp_mot_frm0_full_B.26l",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "efa256f7c334b65a9c74b638a6b94667"
+            "result": "efa256f7c334b65a9c74b638a6b94667",
+            "afbc_result": "98ca950788b24c332e7a19706c065d91"
         },
         {
             "name": "cavlc_mot_mbaff0_full_B",
@@ -550,7 +585,8 @@
             "input_file": "CAWP1_TOSHIBA_E/CAWP1_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "87946607d1d774c2da8ec8632710c84a"
+            "result": "87946607d1d774c2da8ec8632710c84a",
+            "afbc_result": "a6217b37f40bd6ae45887c09463ffd31"
         },
         {
             "name": "CAWP5_TOSHIBA_E",
@@ -559,7 +595,8 @@
             "input_file": "CAWP5_TOSHIBA_E/CAWP5_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9663da55e5ef516c8bf0ca0bcc0abbb8"
+            "result": "9663da55e5ef516c8bf0ca0bcc0abbb8",
+            "afbc_result": "16e1242a198e5a734759032f291796a4"
         },
         {
             "name": "CI1_FT_B",
@@ -568,7 +605,8 @@
             "input_file": "CI1_FT_B.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "6832762976b6d48719bb6cb603acd988"
+            "result": "6832762976b6d48719bb6cb603acd988",
+            "afbc_result": "a5027e0a84947405812e9f2e978ab6c3"
         },
         {
             "name": "CI_MW_D",
@@ -577,7 +615,8 @@
             "input_file": "CI_MW_D.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "037becca5bc836b869aba825293d39a3"
+            "result": "037becca5bc836b869aba825293d39a3",
+            "afbc_result": "23cd335fb3a49cd31446f0a8bef5f871"
         },
         {
             "name": "CVBS3_Sony_C",
@@ -586,7 +625,8 @@
             "input_file": "CVBS3_Sony_C.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e3c1632988100491e8431c3c88ed4096"
+            "result": "e3c1632988100491e8431c3c88ed4096",
+            "afbc_result": "63baf3926b7b5c52e43c51419bd97c5b"
         },
         {
             "name": "CVCANLMA2_Sony_C",
@@ -604,7 +644,8 @@
             "input_file": "CVFC1_Sony_C.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "9fdb17e17d332b5d9752362c9c7ff9b0"
+            "result": "9fdb17e17d332b5d9752362c9c7ff9b0",
+            "afbc_result": "72089c63404c72515488c993a00af4ed"
         },
         {
             "name": "CVFI1_Sony_D",
@@ -757,7 +798,8 @@
             "input_file": "CVPCMNL1_SVA_C.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "5c1fd0f68e875200711febf1d683e58f"
+            "result": "5c1fd0f68e875200711febf1d683e58f",
+            "afbc_result": "8609168fd776abfc3ccfc827cfad84ad"
         },
         {
             "name": "CVPCMNL2_SVA_C",
@@ -766,7 +808,8 @@
             "input_file": "CVPCMNL2_SVA_C.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "af1f1dbe1dd6569cb02271f053217d88"
+            "result": "af1f1dbe1dd6569cb02271f053217d88",
+            "afbc_result": "eed9d66a686688eda93ed94549303965"
         },
         {
             "name": "CVSE2_Sony_B",
@@ -775,7 +818,8 @@
             "input_file": "CVSE2_Sony_B.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "dd660fb407feb42ecd3af06b42fda90d"
+            "result": "dd660fb407feb42ecd3af06b42fda90d",
+            "afbc_result": "90d838f48c3266c1edfa7ff7fc551b53"
         },
         {
             "name": "CVSE3_Sony_H",
@@ -784,7 +828,8 @@
             "input_file": "CVSE3_Sony_H.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "66ab90e408e469bdb9814e9e741d60de"
+            "result": "66ab90e408e469bdb9814e9e741d60de",
+            "afbc_result": "80d3760fe05658a92cb36f773613dfe2"
         },
         {
             "name": "CVSEFDFT3_Sony_E",
@@ -793,7 +838,8 @@
             "input_file": "CVSEFDFT3_Sony_E.jsv",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f44e4059d056aa3796f384a11c894821"
+            "result": "f44e4059d056aa3796f384a11c894821",
+            "afbc_result": "74af1e01c289c3ddbfc6cd2b8d35e197"
         },
         {
             "name": "CVWP1_TOSHIBA_E",
@@ -802,7 +848,8 @@
             "input_file": "CVWP1_TOSHIBA_E/CVWP1_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e8868ca5e934ad779132cdb3c71be000"
+            "result": "e8868ca5e934ad779132cdb3c71be000",
+            "afbc_result": "20c1ea9ec8adad4c5fc8061de4c88bc0"
         },
         {
             "name": "CVWP2_TOSHIBA_E",
@@ -811,7 +858,8 @@
             "input_file": "CVWP2_TOSHIBA_E/CVWP2_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7616ccc1e4cc89805cf5ae11e4437533"
+            "result": "7616ccc1e4cc89805cf5ae11e4437533",
+            "afbc_result": "71aeafd4a60cba9e67cc7720b6cebdb2"
         },
         {
             "name": "CVWP3_TOSHIBA_E",
@@ -820,7 +868,8 @@
             "input_file": "CVWP3_TOSHIBA_E/CVWP3_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "8eb5c239e3ea1da0b5c9220593a46674"
+            "result": "8eb5c239e3ea1da0b5c9220593a46674",
+            "afbc_result": "04df9a5435cb278997ea9a946e94aad8"
         },
         {
             "name": "CVWP5_TOSHIBA_E",
@@ -829,7 +878,8 @@
             "input_file": "CVWP5_TOSHIBA_E/CVWP5_TOSHIBA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9663da55e5ef516c8bf0ca0bcc0abbb8"
+            "result": "9663da55e5ef516c8bf0ca0bcc0abbb8",
+            "afbc_result": "16e1242a198e5a734759032f291796a4"
         },
         {
             "name": "FI1_Sony_E",
@@ -847,7 +897,8 @@
             "input_file": "FM1_BT_B.h264",
             "profile": "Baseline",
             "output_format": "yuv420p",
-            "result": "f21ad956409cfa237099f7ac28390614"
+            "result": "f21ad956409cfa237099f7ac28390614",
+            "afbc_result": "93b9f9052e2a642a4b7876b944a60a70"
         },
         {
             "name": "FM1_FT_E",
@@ -910,7 +961,8 @@
             "input_file": "MIDR_MW_D.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "d87bff88b2c5b96ccb291ef68a45bbc2"
+            "result": "d87bff88b2c5b96ccb291ef68a45bbc2",
+            "afbc_result": "b87ea0a4045d47c5e0f5594064cb1ac3"
         },
         {
             "name": "MPS_MW_A",
@@ -928,7 +980,8 @@
             "input_file": "MR1_BT_A.h264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "6ea31a214aadd8bdc8e7d37195d91c81"
+            "result": "6ea31a214aadd8bdc8e7d37195d91c81",
+            "afbc_result": "3f2e96558ad9050c9b927a4b4ae8f8b7"
         },
         {
             "name": "MR1_MW_A",
@@ -937,7 +990,8 @@
             "input_file": "MR1_MW_A.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "8c03b4a5b27a6f594d917d6fee1d86e6"
+            "result": "8c03b4a5b27a6f594d917d6fee1d86e6",
+            "afbc_result": "5b7c3f839d9011e33142326f9340000d"
         },
         {
             "name": "MR2_MW_A",
@@ -946,7 +1000,8 @@
             "input_file": "MR2_MW_A.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "20e66bac06e537fb1d2fa949b28046cd"
+            "result": "20e66bac06e537fb1d2fa949b28046cd",
+            "afbc_result": "8945fd42870c4d54dfa1d4604dcb9afe"
         },
         {
             "name": "MR2_TANDBERG_E",
@@ -955,7 +1010,8 @@
             "input_file": "MR2_TANDBERG_E.264",
             "profile": "Baseline",
             "output_format": "yuv420p",
-            "result": "d154bf9264960fecc6d2cf72be4cf8cc"
+            "result": "d154bf9264960fecc6d2cf72be4cf8cc",
+            "afbc_result": "800a668cb1d826017469c42b8f4bef70"
         },
         {
             "name": "MR3_TANDBERG_B",
@@ -964,7 +1020,8 @@
             "input_file": "MR3_TANDBERG_B.264",
             "profile": "Baseline",
             "output_format": "yuv420p",
-            "result": "dd1091f75ac15d3ae70485295b0a116e"
+            "result": "dd1091f75ac15d3ae70485295b0a116e",
+            "afbc_result": "df1eac1a4ce8e988f0498508f9f0ac5f"
         },
         {
             "name": "MR4_TANDBERG_C",
@@ -973,7 +1030,8 @@
             "input_file": "MR4_TANDBERG_C.264",
             "profile": "Baseline",
             "output_format": "yuv420p",
-            "result": "5f5f14beca549172487bb74c4d3ba8f9"
+            "result": "5f5f14beca549172487bb74c4d3ba8f9",
+            "afbc_result": "90ca73101ee24a652372a5998601e4e2"
         },
         {
             "name": "MR5_TANDBERG_C",
@@ -982,7 +1040,8 @@
             "input_file": "MR5_TANDBERG_C.264",
             "profile": "Baseline",
             "output_format": "yuv420p",
-            "result": "5f5f14beca549172487bb74c4d3ba8f9"
+            "result": "5f5f14beca549172487bb74c4d3ba8f9",
+            "afbc_result": "90ca73101ee24a652372a5998601e4e2"
         },
         {
             "name": "MR6_BT_B",
@@ -1036,7 +1095,8 @@
             "input_file": "NL1_Sony_D.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "d4bb8d980c1377ee45515763ae7989fd"
+            "result": "d4bb8d980c1377ee45515763ae7989fd",
+            "afbc_result": "dfac1802618c1344c53cfec13b5b2db0"
         },
         {
             "name": "NL2_Sony_H",
@@ -1045,7 +1105,8 @@
             "input_file": "NL2_Sony_H.jsv",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "48d8380cdb7eff52116c1aaddbc583f5"
+            "result": "48d8380cdb7eff52116c1aaddbc583f5",
+            "afbc_result": "9b7e44383e24d82c5584b497c8a0a156"
         },
         {
             "name": "NL3_SVA_E",
@@ -1054,7 +1115,8 @@
             "input_file": "NL3_SVA_E.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c90ce3fa732df9f7e25f110233f0f466"
+            "result": "c90ce3fa732df9f7e25f110233f0f466",
+            "afbc_result": "d8537aca0d621b84287401393f5ff9b8"
         },
         {
             "name": "NLMQ1_JVC_C",
@@ -1063,7 +1125,8 @@
             "input_file": "NLMQ1_JVC_C.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "5c4a2f6b39385805f480a3a4432873b2"
+            "result": "5c4a2f6b39385805f480a3a4432873b2",
+            "afbc_result": "d4d14032d84139928835870bf00b1895"
         },
         {
             "name": "NLMQ2_JVC_C",
@@ -1072,7 +1135,8 @@
             "input_file": "NLMQ2_JVC_C.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "90b70fbaa5ca679ec9bf5e011ddba8f9"
+            "result": "90b70fbaa5ca679ec9bf5e011ddba8f9",
+            "afbc_result": "b4c794a2db74d88c6a93d7af2094ce6b"
         },
         {
             "name": "NRF_MW_E",
@@ -1081,7 +1145,8 @@
             "input_file": "NRF_MW_E.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "a8635615b50c5a16decc555a3c6c81c8"
+            "result": "a8635615b50c5a16decc555a3c6c81c8",
+            "afbc_result": "00ba438fc1f953bd0bcda97f18e13d1e"
         },
         {
             "name": "Sharp_MP_Field_1_B",
@@ -1135,7 +1200,8 @@
             "input_file": "SL1_SVA_B.264",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "acd9cb061e651a37839eb5683fbe811a"
+            "result": "acd9cb061e651a37839eb5683fbe811a",
+            "afbc_result": "48519ddc3772509dff2f412f3204e5c5"
         },
         {
             "name": "SP1_BT_A",
@@ -1180,7 +1246,8 @@
             "input_file": "SVA_Base_B.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "180dda3234bcbe57fc45587dac7d43fb"
+            "result": "180dda3234bcbe57fc45587dac7d43fb",
+            "afbc_result": "d4ba3dc81b59c2eaab801c764792ea3f"
         },
         {
             "name": "SVA_CL1_E",
@@ -1189,7 +1256,8 @@
             "input_file": "SVA_CL1_E.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "5723a1518de9fadca7499c5ba34da7c4"
+            "result": "5723a1518de9fadca7499c5ba34da7c4",
+            "afbc_result": "71a38901f220fb1460dc54ef451896cd"
         },
         {
             "name": "SVA_FM1_E",
@@ -1198,7 +1266,8 @@
             "input_file": "SVA_FM1_E.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "7f7eaf6107852b871a3894a950e3647e"
+            "result": "7f7eaf6107852b871a3894a950e3647e",
+            "afbc_result": "ec35157163a78149992d047105f8da50"
         },
         {
             "name": "SVA_NL1_B",
@@ -1207,7 +1276,8 @@
             "input_file": "SVA_NL1_B.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "b5626983ac0877497fff9a4b10d2f1d4"
+            "result": "b5626983ac0877497fff9a4b10d2f1d4",
+            "afbc_result": "68da1a92d645fe7585f21e29645ab964"
         },
         {
             "name": "SVA_NL2_E",
@@ -1216,7 +1286,9 @@
             "input_file": "SVA_NL2_E.264",
             "profile": "Constrained Baseline",
             "output_format": "yuv420p",
-            "result": "b47e932d436288013b8453d9a1d0f60d"
+            "result": "b47e932d436288013b8453d9a1d0f60d",
+            "afbc_result": "f05abe2dafc18b75f93bf2938c35a9ad"
         }
-    ]
+    ],
+    "test_method": "md5"
 }

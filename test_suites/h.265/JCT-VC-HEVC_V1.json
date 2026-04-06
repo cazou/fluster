@@ -10,7 +10,8 @@
             "input_file": "AMP_A_Samsung_7.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "93a5875d58072db5539c04e1e943ed9d"
+            "result": "93a5875d58072db5539c04e1e943ed9d",
+            "afbc_result": "c0d40d58b28e7b9b3c86632249659950"
         },
         {
             "name": "AMP_B_Samsung_7",
@@ -19,7 +20,8 @@
             "input_file": "AMP_B_Samsung_7.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "4e051fad4145d5127e16ac2999500069"
+            "result": "4e051fad4145d5127e16ac2999500069",
+            "afbc_result": "244eed13fbc5206333ca563c6f439d8d"
         },
         {
             "name": "AMP_D_Hisilicon_3",
@@ -28,7 +30,8 @@
             "input_file": "AMP_D_Hisilicon.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "277006085088cf68b9cafbbba0c19443"
+            "result": "277006085088cf68b9cafbbba0c19443",
+            "afbc_result": "5cdb55ee0785001d4d72d30684983216"
         },
         {
             "name": "AMP_E_Hisilicon_3",
@@ -37,7 +40,8 @@
             "input_file": "AMP_E_Hisilicon.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1a301e997917128420e3c33e6c14693a"
+            "result": "1a301e997917128420e3c33e6c14693a",
+            "afbc_result": "af266e348adfb84f1af1e1a6022cf688"
         },
         {
             "name": "AMP_F_Hisilicon_3",
@@ -46,7 +50,8 @@
             "input_file": "AMP_F_Hisilicon_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6be6b5fb49a9514914f4ea812f737076"
+            "result": "6be6b5fb49a9514914f4ea812f737076",
+            "afbc_result": "b72f2b536eec9f80fb0fe022108dae29"
         },
         {
             "name": "AMVP_A_MTK_4",
@@ -55,7 +60,8 @@
             "input_file": "AMVP_A_MTK_4/AMVP_A_MTK_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "5dd1b1099391ad659225fbf94965a6c7"
+            "result": "5dd1b1099391ad659225fbf94965a6c7",
+            "afbc_result": "890748d1d83510f70e909e3c2b8f9fbc"
         },
         {
             "name": "AMVP_B_MTK_4",
@@ -64,7 +70,8 @@
             "input_file": "AMVP_B_MTK_4/AMVP_B_MTK_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7fecb4fe8ee4d4838f4a9873b062b819"
+            "result": "7fecb4fe8ee4d4838f4a9873b062b819",
+            "afbc_result": "a2275d687ba433ffa54169240b644c34"
         },
         {
             "name": "AMVP_C_Samsung_7",
@@ -73,7 +80,8 @@
             "input_file": "AMVP_C_Samsung_7.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "75155ad034919a2846bbdcba13b5f733"
+            "result": "75155ad034919a2846bbdcba13b5f733",
+            "afbc_result": "82278c01f1962b2b47d05b0463573ffa"
         },
         {
             "name": "BUMPING_A_ericsson_1",
@@ -82,7 +90,8 @@
             "input_file": "BUMPING_A_ericsson_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "64f213eb1cf45614f0eeb50fd1b725bf"
+            "result": "64f213eb1cf45614f0eeb50fd1b725bf",
+            "afbc_result": "7e76668c63c6696c6cb09bd24e9a1eec"
         },
         {
             "name": "CAINIT_A_SHARP_4",
@@ -91,7 +100,8 @@
             "input_file": "CAINIT_A_SHARP_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "550c5a918fecda6a284aa5f44c0e2f33"
+            "result": "550c5a918fecda6a284aa5f44c0e2f33",
+            "afbc_result": "119fc1b570d2d6ffb71ccbc9b9b86f9e"
         },
         {
             "name": "CAINIT_B_SHARP_4",
@@ -100,7 +110,8 @@
             "input_file": "CAINIT_B_SHARP_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0c633f8ee5a4c5779cff48ca86273685"
+            "result": "0c633f8ee5a4c5779cff48ca86273685",
+            "afbc_result": "94c3d003371a4c7cef13d8326c73f885"
         },
         {
             "name": "CAINIT_C_SHARP_3",
@@ -109,7 +120,8 @@
             "input_file": "CAINIT_C_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9c6c5363724a8bad54e2869b655fbf3b"
+            "result": "9c6c5363724a8bad54e2869b655fbf3b",
+            "afbc_result": "f9e633fe812e0902c25670deb7799fff"
         },
         {
             "name": "CAINIT_D_SHARP_3",
@@ -118,7 +130,8 @@
             "input_file": "CAINIT_D_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0231e327044e45971fc30a43a1bd8275"
+            "result": "0231e327044e45971fc30a43a1bd8275",
+            "afbc_result": "3c42dbae793f4fd0d665c4e7dd352e59"
         },
         {
             "name": "CAINIT_E_SHARP_3",
@@ -127,7 +140,8 @@
             "input_file": "CAINIT_E_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "55af76d5527af999d12ccc37b1f6b7ae"
+            "result": "55af76d5527af999d12ccc37b1f6b7ae",
+            "afbc_result": "59412682ab5a0f5e8649f6fb92fb4d5d"
         },
         {
             "name": "CAINIT_F_SHARP_3",
@@ -136,7 +150,8 @@
             "input_file": "CAINIT_F_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "88d8cd2d303b662f0a92a25256957b69"
+            "result": "88d8cd2d303b662f0a92a25256957b69",
+            "afbc_result": "d681188e5d12332bd26a9708737ef92b"
         },
         {
             "name": "CAINIT_G_SHARP_3",
@@ -145,7 +160,8 @@
             "input_file": "CAINIT_G_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "a7036eac7798f6e8691f0975786d6811"
+            "result": "a7036eac7798f6e8691f0975786d6811",
+            "afbc_result": "f7e4b5b99d9eada3706f4cb1e5be5a04"
         },
         {
             "name": "CAINIT_H_SHARP_3",
@@ -154,7 +170,8 @@
             "input_file": "CAINIT_H_SHARP_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "cfdd3ce0f4cf1eafd012dcb266311d06"
+            "result": "cfdd3ce0f4cf1eafd012dcb266311d06",
+            "afbc_result": "5edf4aba9115af3b49a4076d8478f35f"
         },
         {
             "name": "CIP_A_Panasonic_3",
@@ -163,7 +180,8 @@
             "input_file": "CIP_A_Panasonic_3/CIP_A_Panasonic_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "4cbf601ba98d63f642defab5eaa12c8d"
+            "result": "4cbf601ba98d63f642defab5eaa12c8d",
+            "afbc_result": "d0711e73e8a4052606514ba3e428fd4e"
         },
         {
             "name": "cip_B_NEC_3",
@@ -172,7 +190,8 @@
             "input_file": "cip_B_NEC_3/cip_B_NEC_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1315714c7b3f3237b469259f66d9b7aa"
+            "result": "1315714c7b3f3237b469259f66d9b7aa",
+            "afbc_result": "bcbd5510faec2642dec0f56b19a70f57"
         },
         {
             "name": "CIP_C_Panasonic_2",
@@ -181,7 +200,8 @@
             "input_file": "CIP_C_Panasonic_2/CIP_C_Panasonic_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "ed985932fef2aa8a74ded970070bdab2"
+            "result": "ed985932fef2aa8a74ded970070bdab2",
+            "afbc_result": "0353119d9d8c85c3b28cd51ed89cdf9f"
         },
         {
             "name": "CONFWIN_A_Sony_1",
@@ -199,7 +219,8 @@
             "input_file": "DBLK_A_MAIN10_VIXS_4/DBLK_A_MAIN10_VIXS_4.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "c4594956bb9e8303f1662f9eb1bcdf50"
+            "result": "c4594956bb9e8303f1662f9eb1bcdf50",
+            "afbc_result": "f8858c76757d98d0ed7170909480002c"
         },
         {
             "name": "DBLK_A_SONY_3",
@@ -208,7 +229,8 @@
             "input_file": "DBLK_A_SONY_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "42486a48ea12d5ab6cd98ed2e2807cfe"
+            "result": "42486a48ea12d5ab6cd98ed2e2807cfe",
+            "afbc_result": "c81eee9347d57c46a807e225f46d694e"
         },
         {
             "name": "DBLK_B_SONY_3",
@@ -217,7 +239,8 @@
             "input_file": "DBLK_B_SONY_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "cf5de25a94a33e2d4237b8d1c773db06"
+            "result": "cf5de25a94a33e2d4237b8d1c773db06",
+            "afbc_result": "da586c017351751104d968749dbe4a0f"
         },
         {
             "name": "DBLK_C_SONY_3",
@@ -226,7 +249,8 @@
             "input_file": "DBLK_C_SONY_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "41f89edc63b1175ffc1fae909f4fed82"
+            "result": "41f89edc63b1175ffc1fae909f4fed82",
+            "afbc_result": "422ad321d2423c8ec0e350abd9daa18f"
         },
         {
             "name": "DBLK_D_VIXS_2",
@@ -235,7 +259,8 @@
             "input_file": "DBLK_D_VIXS_2/DBLK_D_VIXS_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f6f3075edca573f5dfe4e352d26170f1"
+            "result": "f6f3075edca573f5dfe4e352d26170f1",
+            "afbc_result": "bdd1f88722d23774c13c6333b90313cf"
         },
         {
             "name": "DBLK_E_VIXS_2",
@@ -244,7 +269,8 @@
             "input_file": "DBLK_E_VIXS_2/DBLK_E_VIXS_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1f94d56d9e462967cad73284ed0f43f9"
+            "result": "1f94d56d9e462967cad73284ed0f43f9",
+            "afbc_result": "6d9c5c5db243e68de7f9d4c2278b4d45"
         },
         {
             "name": "DBLK_F_VIXS_2",
@@ -253,7 +279,8 @@
             "input_file": "DBLK_F_VIXS_2/DBLK_F_VIXS_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c94d0c0d80c93a2edd372a1fd12f93a1"
+            "result": "c94d0c0d80c93a2edd372a1fd12f93a1",
+            "afbc_result": "70647499079c4efe9b6fdf404c7c0a9d"
         },
         {
             "name": "DBLK_G_VIXS_2",
@@ -262,7 +289,8 @@
             "input_file": "DBLK_G_VIXS_2/DBLK_G_VIXS_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1f94d56d9e462967cad73284ed0f43f9"
+            "result": "1f94d56d9e462967cad73284ed0f43f9",
+            "afbc_result": "6d9c5c5db243e68de7f9d4c2278b4d45"
         },
         {
             "name": "DELTAQP_A_BRCM_4",
@@ -271,7 +299,8 @@
             "input_file": "DELTAQP_A_BRCM_4/DELTAQP_A_BRCM_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1ceef83183197fd1f21472c17b53cbff"
+            "result": "1ceef83183197fd1f21472c17b53cbff",
+            "afbc_result": "029fe9f438d13909b8347c55aafdc7fe"
         },
         {
             "name": "DELTAQP_B_SONY_3",
@@ -280,7 +309,8 @@
             "input_file": "DELTAQP_B_SONY_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f02fa96633c63bd5e1ce0f103447d1ed"
+            "result": "f02fa96633c63bd5e1ce0f103447d1ed",
+            "afbc_result": "9f8121a53f31004355ca714f80286034"
         },
         {
             "name": "DELTAQP_C_SONY_3",
@@ -289,7 +319,8 @@
             "input_file": "DELTAQP_C_SONY_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1c2be685b1ae953787e0e93c656ee502"
+            "result": "1c2be685b1ae953787e0e93c656ee502",
+            "afbc_result": "373db73870300542888df61581b78bbf"
         },
         {
             "name": "DSLICE_A_HHI_5",
@@ -298,7 +329,8 @@
             "input_file": "DSLICE_A_HHI_5/DSLICE_A_HHI_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c7caf3164b0a316549ac7244f66f1294"
+            "result": "c7caf3164b0a316549ac7244f66f1294",
+            "afbc_result": "098b3bd70a86d19004af454741a5c7f1"
         },
         {
             "name": "DSLICE_B_HHI_5",
@@ -307,7 +339,8 @@
             "input_file": "DSLICE_B_HHI_5/DSLICE_B_HHI_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "2e072130f116a4d0f7fc69fa76cfcdfb"
+            "result": "2e072130f116a4d0f7fc69fa76cfcdfb",
+            "afbc_result": "e0819b378ed9abdfdc483cd9e13f1de4"
         },
         {
             "name": "DSLICE_C_HHI_5",
@@ -316,7 +349,8 @@
             "input_file": "DSLICE_C_HHI_5/DSLICE_C_HHI_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "505a47c5ce4bc66ef5661aeb778b0f1f"
+            "result": "505a47c5ce4bc66ef5661aeb778b0f1f",
+            "afbc_result": "83252c1390b2ad1e3f14d0630c290817"
         },
         {
             "name": "ENTP_A_QUALCOMM_1",
@@ -325,7 +359,8 @@
             "input_file": "ENTP_A_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "25f3c7facf9e7b75e81247206b4fc60d"
+            "result": "25f3c7facf9e7b75e81247206b4fc60d",
+            "afbc_result": "0ca73afae2a566afacef4833358d1a08"
         },
         {
             "name": "ENTP_B_Qualcomm_1",
@@ -334,7 +369,8 @@
             "input_file": "ENTP_B_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6577f102b93577eb899e0bff1a20a401"
+            "result": "6577f102b93577eb899e0bff1a20a401",
+            "afbc_result": "a3d4c07da831b6b3898eae6abd41436a"
         },
         {
             "name": "ENTP_C_Qualcomm_1",
@@ -343,7 +379,8 @@
             "input_file": "ENTP_C_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0b607e6e7946e6e8d0f92a1a294d135d"
+            "result": "0b607e6e7946e6e8d0f92a1a294d135d",
+            "afbc_result": "02c169d94377696eeccafd39df32cadb"
         },
         {
             "name": "EXT_A_ericsson_4",
@@ -352,7 +389,8 @@
             "input_file": "EXT_A_ericsson_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "5797b3114fe12daf1ce522ed70ce4078"
+            "result": "5797b3114fe12daf1ce522ed70ce4078",
+            "afbc_result": "ff499de1e1fb3196c5b469d9b3bda4b7"
         },
         {
             "name": "FILLER_A_Sony_1",
@@ -361,7 +399,8 @@
             "input_file": "FILLER_A_Sony_1/FILLER_A_Sony_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f92a928770a41b63e7cfc89ea198790f"
+            "result": "f92a928770a41b63e7cfc89ea198790f",
+            "afbc_result": "02a1e2c0e274cc8088bd244afb4f366a"
         },
         {
             "name": "HRD_A_Fujitsu_3",
@@ -370,7 +409,8 @@
             "input_file": "HRD_A_Fujitsu_3.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f6d04dba2ef09bcadbea7b8ab5c8c917"
+            "result": "f6d04dba2ef09bcadbea7b8ab5c8c917",
+            "afbc_result": "1143cd0fad39bebd7f28c51fa4f81cf5"
         },
         {
             "name": "INITQP_A_Sony_1",
@@ -379,7 +419,8 @@
             "input_file": "INITQP_A_Sony_1/INITQP_A_Sony_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "2716af552e71ef61221b86130ad3d444"
+            "result": "2716af552e71ef61221b86130ad3d444",
+            "afbc_result": "ba96ed9926f8e3ea11c8f1cc89e11d34"
         },
         {
             "name": "INITQP_B_Main10_Sony_1",
@@ -388,7 +429,8 @@
             "input_file": "INITQP_B_Main10_Sony_1/INITQP_B_Main10_Sony_1.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "f63c71e5f6b9c6ddf2b080524f9f14b1"
+            "result": "f63c71e5f6b9c6ddf2b080524f9f14b1",
+            "afbc_result": "7a9565adcc9c820462de9ba748522b9d"
         },
         {
             "name": "ipcm_A_NEC_3",
@@ -397,7 +439,8 @@
             "input_file": "ipcm_A_NEC_3/ipcm_A_NEC_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "8049988c383486e076ea2494edda3831"
+            "result": "8049988c383486e076ea2494edda3831",
+            "afbc_result": "60a7f5e7760cf6e5c4eaf6bff0520972"
         },
         {
             "name": "ipcm_B_NEC_3",
@@ -406,7 +449,8 @@
             "input_file": "ipcm_B_NEC_3/ipcm_B_NEC_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "23a3b7024fd9bc64b946b9961ab0f51e"
+            "result": "23a3b7024fd9bc64b946b9961ab0f51e",
+            "afbc_result": "11f42c5af36978473ee74c724f51f3eb"
         },
         {
             "name": "ipcm_C_NEC_3",
@@ -415,7 +459,8 @@
             "input_file": "ipcm_C_NEC_3/ipcm_C_NEC_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c3e74c399b73a5ab2dbd20523f583464"
+            "result": "c3e74c399b73a5ab2dbd20523f583464",
+            "afbc_result": "43000f013fd77033d5a7ecd95ea29adb"
         },
         {
             "name": "ipcm_D_NEC_3",
@@ -424,7 +469,8 @@
             "input_file": "ipcm_D_NEC_3/ipcm_D_NEC_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "aa64a16240064bc2a90fadf979a62a7b"
+            "result": "aa64a16240064bc2a90fadf979a62a7b",
+            "afbc_result": "0accd84943b7d53a2c3c969f52164f8d"
         },
         {
             "name": "ipcm_E_NEC_2",
@@ -433,7 +479,8 @@
             "input_file": "ipcm_E_NEC_2/ipcm_E_NEC_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e1cd7a16d3f6a342855044ccba3e41f5"
+            "result": "e1cd7a16d3f6a342855044ccba3e41f5",
+            "afbc_result": "13e7f33af5ffcc5ef41422c3175b8d1e"
         },
         {
             "name": "IPRED_A_docomo_2",
@@ -442,7 +489,8 @@
             "input_file": "IPRED_A_docomo_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0e4e9bd00b74e30e400de46ee7ad8023"
+            "result": "0e4e9bd00b74e30e400de46ee7ad8023",
+            "afbc_result": "a10528014095120200c9fcaf5f96ffbd"
         },
         {
             "name": "IPRED_B_Nokia_3",
@@ -451,7 +499,8 @@
             "input_file": "IPRED_B_Nokia_3.bit",
             "profile": "Main Still Picture",
             "output_format": "yuv420p",
-            "result": "ec3bcad4f9174404e52d132206b6617b"
+            "result": "ec3bcad4f9174404e52d132206b6617b",
+            "afbc_result": "0d63932e91104cb94d969f98b5d16d63"
         },
         {
             "name": "IPRED_C_Mitsubishi_3",
@@ -460,7 +509,8 @@
             "input_file": "IPRED_C_Mitsubishi_3/IPRED_C_Mitsubishi_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6043c04fecc60ee88f4247aaca96441f"
+            "result": "6043c04fecc60ee88f4247aaca96441f",
+            "afbc_result": "757148861273d9034bb0bbfcaeda6c91"
         },
         {
             "name": "LS_A_Orange_2",
@@ -469,7 +519,8 @@
             "input_file": "LS_A_Orange_2/LS_A_Orange_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e14f82958f87a87be73a6f51e76ffdab"
+            "result": "e14f82958f87a87be73a6f51e76ffdab",
+            "afbc_result": "f7ae2eff8b232d2bd924a9a66fa30a43"
         },
         {
             "name": "LS_B_Orange_4",
@@ -478,7 +529,8 @@
             "input_file": "LS_B_Orange_4/LS_B_Orange_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "05ac9b36977c98001cc6c5a45e363662"
+            "result": "05ac9b36977c98001cc6c5a45e363662",
+            "afbc_result": "f64090a79e3c4ac63f6690dfe28b5f6e"
         },
         {
             "name": "LTRPSPS_A_Qualcomm_1",
@@ -487,7 +539,8 @@
             "input_file": "LTRPSPS_A_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e925d467c20180090c09c02d02c3aa25"
+            "result": "e925d467c20180090c09c02d02c3aa25",
+            "afbc_result": "027cdcea6e0143cce071f97980296d36"
         },
         {
             "name": "MAXBINS_A_TI_5",
@@ -496,7 +549,8 @@
             "input_file": "MAXBINS_A_TI_5/MAXBINS_A_TI_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1386fb149ddc11bd5a1d9111879acfa4"
+            "result": "1386fb149ddc11bd5a1d9111879acfa4",
+            "afbc_result": "5f3b29139880833901da20a61522318d"
         },
         {
             "name": "MAXBINS_B_TI_5",
@@ -505,7 +559,8 @@
             "input_file": "MAXBINS_B_TI_5/MAXBINS_B_TI_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "21d6910760ea4963eab28b26709471fe"
+            "result": "21d6910760ea4963eab28b26709471fe",
+            "afbc_result": "86ad762c5011a25278baccbaf57ec9e8"
         },
         {
             "name": "MAXBINS_C_TI_5",
@@ -514,7 +569,8 @@
             "input_file": "MAXBINS_C_TI_5/MAXBINS_C_TI_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7a7e51fdd40c57d70af418f5082416fa"
+            "result": "7a7e51fdd40c57d70af418f5082416fa",
+            "afbc_result": "61cc0ac63e60fcf83a4fb6cac70627d5"
         },
         {
             "name": "MERGE_A_TI_3",
@@ -523,7 +579,8 @@
             "input_file": "MERGE_A_TI_3/MERGE_A_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "3a15886a0158ef1aaf557869b2e9c522"
+            "result": "3a15886a0158ef1aaf557869b2e9c522",
+            "afbc_result": "0412dcbe676cf122f28d0ea472f83698"
         },
         {
             "name": "MERGE_B_TI_3",
@@ -532,7 +589,8 @@
             "input_file": "MERGE_B_TI_3/MERGE_B_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "83b4dc9f229a8fba3777d9f4f87ce144"
+            "result": "83b4dc9f229a8fba3777d9f4f87ce144",
+            "afbc_result": "6b39c32e25aa7e2a745f3c7a8e29c092"
         },
         {
             "name": "MERGE_C_TI_3",
@@ -541,7 +599,8 @@
             "input_file": "MERGE_C_TI_3/MERGE_C_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "216f0cc869e3989c8fb2cf261243160b"
+            "result": "216f0cc869e3989c8fb2cf261243160b",
+            "afbc_result": "a228e252cc9db7f19bd08953f9b2c5c1"
         },
         {
             "name": "MERGE_D_TI_3",
@@ -550,7 +609,8 @@
             "input_file": "MERGE_D_TI_3/MERGE_D_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "104cccf2b8441862624777955d6ecdc4"
+            "result": "104cccf2b8441862624777955d6ecdc4",
+            "afbc_result": "cebb6f30aa882c89885a251de2bf2614"
         },
         {
             "name": "MERGE_E_TI_3",
@@ -559,7 +619,8 @@
             "input_file": "MERGE_E_TI_3/MERGE_E_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6e74dbd450123246c22bf01b389bbe11"
+            "result": "6e74dbd450123246c22bf01b389bbe11",
+            "afbc_result": "dd53d3f7b375be2f550d3416f5fae1cf"
         },
         {
             "name": "MERGE_F_MTK_4",
@@ -568,7 +629,8 @@
             "input_file": "MERGE_F_MTK_4/MERGE_F_MTK_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "a8f0982f026dfda1c02b4d4d3eb88132"
+            "result": "a8f0982f026dfda1c02b4d4d3eb88132",
+            "afbc_result": "3548f13e7daab14551f51f41b86bac46"
         },
         {
             "name": "MERGE_G_HHI_4",
@@ -577,7 +639,8 @@
             "input_file": "MERGE_G_HHI_4/MERGE_G_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c82f4c88d9b2c73fabbeac8944da35a1"
+            "result": "c82f4c88d9b2c73fabbeac8944da35a1",
+            "afbc_result": "201f77aadf23e89813cb9eb1ca64f8c0"
         },
         {
             "name": "MVCLIP_A_qualcomm_3",
@@ -586,7 +649,8 @@
             "input_file": "MVCLIP_A_qualcomm_3/MVCLIP_A_qualcomm_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "78b398c201089b6b17bcbda2bbccf3ae"
+            "result": "78b398c201089b6b17bcbda2bbccf3ae",
+            "afbc_result": "449e47f455a988ac9d950281a42ffec7"
         },
         {
             "name": "MVDL1ZERO_A_docomo_4",
@@ -595,7 +659,8 @@
             "input_file": "MVDL1ZERO_A_docomo_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "593d1936f6fc2e1775ea2a691a601c34"
+            "result": "593d1936f6fc2e1775ea2a691a601c34",
+            "afbc_result": "7c4508abfa97cf8e59942b15b47b2f7d"
         },
         {
             "name": "MVEDGE_A_qualcomm_3",
@@ -604,7 +669,8 @@
             "input_file": "MVEDGE_A_qualcomm_3/MVEDGE_A_qualcomm_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "101c5bfe16ff1739909161794af29a2d"
+            "result": "101c5bfe16ff1739909161794af29a2d",
+            "afbc_result": "8fb6ea0bfea12a14823c9eb30e08c1f1"
         },
         {
             "name": "NoOutPrior_A_Qualcomm_1",
@@ -613,7 +679,8 @@
             "input_file": "NoOutPrior_A_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1c5f20a08ab8dfa0f44d9a0ca23d174d"
+            "result": "1c5f20a08ab8dfa0f44d9a0ca23d174d",
+            "afbc_result": "6fcacf671a77cc12c63c3523ee43a502"
         },
         {
             "name": "NoOutPrior_B_Qualcomm_1",
@@ -622,7 +689,8 @@
             "input_file": "NoOutPrior_B_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "048bca0ec216a3f88cf9fbb4bb5a61ac"
+            "result": "048bca0ec216a3f88cf9fbb4bb5a61ac",
+            "afbc_result": "293097f3e91ef374db674cf68c979e06"
         },
         {
             "name": "NUT_A_ericsson_5",
@@ -631,7 +699,8 @@
             "input_file": "NUT_A_ericsson_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9dbe33badd0cc6dfcd1b53e546968fbd"
+            "result": "9dbe33badd0cc6dfcd1b53e546968fbd",
+            "afbc_result": "60346f17e1fbd6f592a97439be422395"
         },
         {
             "name": "OPFLAG_A_Qualcomm_1",
@@ -640,7 +709,8 @@
             "input_file": "OPFLAG_A_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "35eeeca175938ee262f72b7485146f94"
+            "result": "35eeeca175938ee262f72b7485146f94",
+            "afbc_result": "822f95c825b62359d5e2567388cc0e86"
         },
         {
             "name": "OPFLAG_B_Qualcomm_1",
@@ -649,7 +719,8 @@
             "input_file": "OPFLAG_B_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "516811eeff3ae5ee056dda290dcf2735"
+            "result": "516811eeff3ae5ee056dda290dcf2735",
+            "afbc_result": "95e78130ec8c7979b528820d6c6ad453"
         },
         {
             "name": "OPFLAG_C_Qualcomm_1",
@@ -658,7 +729,8 @@
             "input_file": "OPFLAG_C_Qualcomm_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "a82c4f6ee843150067bba60b9342fc50"
+            "result": "a82c4f6ee843150067bba60b9342fc50",
+            "afbc_result": "106d3e9620aae9b65797a01dd69be631"
         },
         {
             "name": "PICSIZE_A_Bossen_1",
@@ -703,7 +775,8 @@
             "input_file": "PMERGE_A_TI_3/PMERGE_A_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6e74dbd450123246c22bf01b389bbe11"
+            "result": "6e74dbd450123246c22bf01b389bbe11",
+            "afbc_result": "dd53d3f7b375be2f550d3416f5fae1cf"
         },
         {
             "name": "PMERGE_B_TI_3",
@@ -712,7 +785,8 @@
             "input_file": "PMERGE_B_TI_3/PMERGE_B_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7d0e57ebdbbc6633c972083a17d97550"
+            "result": "7d0e57ebdbbc6633c972083a17d97550",
+            "afbc_result": "d0a89736229f224355e38ffcccff5c28"
         },
         {
             "name": "PMERGE_C_TI_3",
@@ -721,7 +795,8 @@
             "input_file": "PMERGE_C_TI_3/PMERGE_C_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7e23d874b198ec7a9f6086a20de0db76"
+            "result": "7e23d874b198ec7a9f6086a20de0db76",
+            "afbc_result": "156aecc6813a6df0d211bfa15dc5198e"
         },
         {
             "name": "PMERGE_D_TI_3",
@@ -730,7 +805,8 @@
             "input_file": "PMERGE_D_TI_3/PMERGE_D_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "9771b8c8a71e41547f14032e07be7d61"
+            "result": "9771b8c8a71e41547f14032e07be7d61",
+            "afbc_result": "3fc7553b3aaf1c4afb7c6a21099b0408"
         },
         {
             "name": "PMERGE_E_TI_3",
@@ -739,7 +815,8 @@
             "input_file": "PMERGE_E_TI_3/PMERGE_E_TI_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "26aed56afdb6cb7011fd5c3303379a9d"
+            "result": "26aed56afdb6cb7011fd5c3303379a9d",
+            "afbc_result": "846adee0c96c43d264094fa7ec25f1e6"
         },
         {
             "name": "POC_A_Bossen_3",
@@ -748,7 +825,8 @@
             "input_file": "POC_A_Bossen_3/POC_A_Bossen_3.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "faf33bec64d3e58c426ed2772903a0bf"
+            "result": "faf33bec64d3e58c426ed2772903a0bf",
+            "afbc_result": "debaf437c59b026bf01722e807efbcf3"
         },
         {
             "name": "PPS_A_qualcomm_7",
@@ -757,7 +835,8 @@
             "input_file": "PPS_A_qualcomm_7/PPS_A_qualcomm_7.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "bccf29fab6744215fe007ea3a5d6da42"
+            "result": "bccf29fab6744215fe007ea3a5d6da42",
+            "afbc_result": "326ee847bd353bf1caa5e135ea1ecd5c"
         },
         {
             "name": "PS_B_VIDYO_3",
@@ -766,7 +845,8 @@
             "input_file": "PS_B_VIDYO_3/PS_B_VIDYO_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "eb85521ee103333eac61a8253637eac4"
+            "result": "eb85521ee103333eac61a8253637eac4",
+            "afbc_result": "b6e29f60cdeea8104900dc10261e5cf9"
         },
         {
             "name": "RAP_A_docomo_6",
@@ -775,7 +855,8 @@
             "input_file": "RAP_A_docomo_6.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "8a536a80ed42b37b1ac5810bc046f82a"
+            "result": "8a536a80ed42b37b1ac5810bc046f82a",
+            "afbc_result": "06123e64c775a6289c327e042f5690c1"
         },
         {
             "name": "RAP_B_Bossen_2",
@@ -784,7 +865,8 @@
             "input_file": "RAP_B_Bossen_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f38befcc280f2fd0d23f48f807f843c2"
+            "result": "f38befcc280f2fd0d23f48f807f843c2",
+            "afbc_result": "e5dacdb029369d5d6cc60e0aa2d81343"
         },
         {
             "name": "RPLM_A_qualcomm_4",
@@ -793,7 +875,8 @@
             "input_file": "RPLM_A_qualcomm_4/RPLM_A_qualcomm_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "011794872709c341880ee42ade036ed3"
+            "result": "011794872709c341880ee42ade036ed3",
+            "afbc_result": "150f5af8bf060e8d7bb9c385804c6d91"
         },
         {
             "name": "RPLM_B_qualcomm_4",
@@ -802,7 +885,8 @@
             "input_file": "RPLM_B_qualcomm_4/RPLM_B_qualcomm_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "653ac7c46fa7b9d7d966e3db317eb938"
+            "result": "653ac7c46fa7b9d7d966e3db317eb938",
+            "afbc_result": "f43bae57d484777195d371c517e52441"
         },
         {
             "name": "RPS_A_docomo_5",
@@ -811,7 +895,8 @@
             "input_file": "RPS_A_docomo_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7f4ad6c6b3de54558b0db59629b87db9"
+            "result": "7f4ad6c6b3de54558b0db59629b87db9",
+            "afbc_result": "a40232eafddfbc1efc43f2130d9923a4"
         },
         {
             "name": "RPS_B_qualcomm_5",
@@ -820,7 +905,8 @@
             "input_file": "RPS_B_qualcomm_5/RPS_B_qualcomm_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6d1ed392b067050ebd3a24a37281da03"
+            "result": "6d1ed392b067050ebd3a24a37281da03",
+            "afbc_result": "ef5f153ff4d2b9f0010fef8909a1a9cd"
         },
         {
             "name": "RPS_C_ericsson_5",
@@ -829,7 +915,8 @@
             "input_file": "RPS_C_ericsson_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0306b9e3ec365115ccb7060c0a437b32"
+            "result": "0306b9e3ec365115ccb7060c0a437b32",
+            "afbc_result": "cf04d88c61075c8948af9edec80ded8d"
         },
         {
             "name": "RPS_D_ericsson_6",
@@ -838,7 +925,8 @@
             "input_file": "RPS_D_ericsson_6.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "d0fcd71e6266b1ae1f66b9cb1802ea03"
+            "result": "d0fcd71e6266b1ae1f66b9cb1802ea03",
+            "afbc_result": "362d7b3edba1025eb8e12a1b5beccf06"
         },
         {
             "name": "RPS_E_qualcomm_5",
@@ -847,7 +935,8 @@
             "input_file": "RPS_E_qualcomm_5/RPS_E_qualcomm_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c30d38bbd7ea483dc7ffe81325118e16"
+            "result": "c30d38bbd7ea483dc7ffe81325118e16",
+            "afbc_result": "429b4cd5c3a98db0ee1de35c03eca51f"
         },
         {
             "name": "RPS_F_docomo_2",
@@ -856,7 +945,8 @@
             "input_file": "RPS_F_docomo_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "fd6e6d973d39622d197dbdf4543643f2"
+            "result": "fd6e6d973d39622d197dbdf4543643f2",
+            "afbc_result": "04bcd6f1b8f8e51f6209a6a77cdea3c1"
         },
         {
             "name": "RQT_A_HHI_4",
@@ -865,7 +955,8 @@
             "input_file": "RQT_A_HHI_4/RQT_A_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "aa7f6ef07bf76ebddd52f7e528cd6ab8"
+            "result": "aa7f6ef07bf76ebddd52f7e528cd6ab8",
+            "afbc_result": "9ef70056c6e535e91835d7c6738626db"
         },
         {
             "name": "RQT_B_HHI_4",
@@ -874,7 +965,8 @@
             "input_file": "RQT_B_HHI_4/RQT_B_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "a63f4f4e966e77a5eb4e65dcdcc488a4"
+            "result": "a63f4f4e966e77a5eb4e65dcdcc488a4",
+            "afbc_result": "8c3a099ea7787ac2cd8e95cadcc26b8c"
         },
         {
             "name": "RQT_C_HHI_4",
@@ -883,7 +975,8 @@
             "input_file": "RQT_C_HHI_4/RQT_C_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c82f4c88d9b2c73fabbeac8944da35a1"
+            "result": "c82f4c88d9b2c73fabbeac8944da35a1",
+            "afbc_result": "201f77aadf23e89813cb9eb1ca64f8c0"
         },
         {
             "name": "RQT_D_HHI_4",
@@ -892,7 +985,8 @@
             "input_file": "RQT_D_HHI_4/RQT_D_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "33b58b954fa82753526fda9e9e6bc8cb"
+            "result": "33b58b954fa82753526fda9e9e6bc8cb",
+            "afbc_result": "600ec1a6835f57fdcfadea9d4769a2ee"
         },
         {
             "name": "RQT_E_HHI_4",
@@ -901,7 +995,8 @@
             "input_file": "RQT_E_HHI_4/RQT_E_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "65f22431d0eb149e04c327f881ce6581"
+            "result": "65f22431d0eb149e04c327f881ce6581",
+            "afbc_result": "2b4281e91ef73adf36e2aa91a70cffb3"
         },
         {
             "name": "RQT_F_HHI_4",
@@ -910,7 +1005,8 @@
             "input_file": "RQT_F_HHI_4/RQT_F_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "56ba354d919d06a33b44862dd18e9437"
+            "result": "56ba354d919d06a33b44862dd18e9437",
+            "afbc_result": "e0fe7f8b635ed199e18320e2527d5579"
         },
         {
             "name": "RQT_G_HHI_4",
@@ -919,7 +1015,8 @@
             "input_file": "RQT_G_HHI_4/RQT_G_HHI_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "2fb67256014a6840b69ca6dad2426304"
+            "result": "2fb67256014a6840b69ca6dad2426304",
+            "afbc_result": "6302c1ac7c80859007f186f7f4b0f363"
         },
         {
             "name": "SAO_A_MediaTek_4",
@@ -928,7 +1025,8 @@
             "input_file": "SAO_A_MediaTek_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "272e694a2262a2b34f6248f787a4431d"
+            "result": "272e694a2262a2b34f6248f787a4431d",
+            "afbc_result": "a7c4700634fe0f91b7fa7123eebc9aaf"
         },
         {
             "name": "SAO_B_MediaTek_5",
@@ -937,7 +1035,8 @@
             "input_file": "SAO_B_MediaTek_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "90cc57237e3ce47eb3b4c901e200112d"
+            "result": "90cc57237e3ce47eb3b4c901e200112d",
+            "afbc_result": "d71367bd7c500e32f6e8eac1bfef0bd3"
         },
         {
             "name": "SAO_C_Samsung_5",
@@ -946,7 +1045,8 @@
             "input_file": "SAO_C_Samsung_5/SAO_C_Samsung_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "962290491f2f1a1e70ab7aa63d2264bc"
+            "result": "962290491f2f1a1e70ab7aa63d2264bc",
+            "afbc_result": "96b5b6ae3f6a0cb06766434dc64427be"
         },
         {
             "name": "SAO_D_Samsung_5",
@@ -955,7 +1055,8 @@
             "input_file": "SAO_D_Samsung_5/SAO_D_Samsung_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "6db9575a7737816b1d7a3a3bf3ba126c"
+            "result": "6db9575a7737816b1d7a3a3bf3ba126c",
+            "afbc_result": "4de606311ad5923d18f7c4fa7175f400"
         },
         {
             "name": "SAO_E_Canon_4",
@@ -964,7 +1065,8 @@
             "input_file": "SAO_E_Canon_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0b04a1378274a6ffbb8f6121e027290c"
+            "result": "0b04a1378274a6ffbb8f6121e027290c",
+            "afbc_result": "607355235f6d59a63fdc7e69bcd3b6c1"
         },
         {
             "name": "SAO_F_Canon_3",
@@ -973,7 +1075,8 @@
             "input_file": "SAO_F_Canon_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "5c295ecba132d1e68a12dd8209e86a02"
+            "result": "5c295ecba132d1e68a12dd8209e86a02",
+            "afbc_result": "30dbc80f6cdfbd1fbc3fcadf41221b0f"
         },
         {
             "name": "SAO_G_Canon_3",
@@ -982,7 +1085,8 @@
             "input_file": "SAO_G_Canon_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1f743a3e28617b8bae3e348096edcf76"
+            "result": "1f743a3e28617b8bae3e348096edcf76",
+            "afbc_result": "326e3c83d619363258ad039ed402a5bd"
         },
         {
             "name": "SAO_H_Parabola_1",
@@ -991,7 +1095,8 @@
             "input_file": "SAO_H_Parabola_1.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "7e23c16898b14831b25d7857b69a9a9a"
+            "result": "7e23c16898b14831b25d7857b69a9a9a",
+            "afbc_result": "bb2e4a001b79f81bf766213151c5d421"
         },
         {
             "name": "SAODBLK_A_MainConcept_4",
@@ -1000,7 +1105,8 @@
             "input_file": "SAODBLK_A_MainConcept_4/SAODBLK_A_MainConcept_4.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "b9c98937bcb6be445348fdc89c208f1e"
+            "result": "b9c98937bcb6be445348fdc89c208f1e",
+            "afbc_result": "c3aaab3df9fe1c2a10b4edf7973e9daf"
         },
         {
             "name": "SAODBLK_B_MainConcept_4",
@@ -1009,7 +1115,8 @@
             "input_file": "SAODBLK_B_MainConcept_4/SAODBLK_B_MainConcept_4.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "031043495e9b9f4ce120afa316aa5705"
+            "result": "031043495e9b9f4ce120afa316aa5705",
+            "afbc_result": "47d38bc440f2b63d7a8e05c2a5c4a0cf"
         },
         {
             "name": "SDH_A_Orange_4",
@@ -1018,7 +1125,8 @@
             "input_file": "SDH_A_Orange_4/SDH_A_Orange_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "0a1a6a76a86dbdc7ca479e4235f5b822"
+            "result": "0a1a6a76a86dbdc7ca479e4235f5b822",
+            "afbc_result": "8bc1b2208da8a15f6403ac71f94a3def"
         },
         {
             "name": "SLICES_A_Rovi_3",
@@ -1027,7 +1135,8 @@
             "input_file": "SLICES_A_Rovi_3.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "c2d63a4d145a5713afecd822032ec271"
+            "result": "c2d63a4d145a5713afecd822032ec271",
+            "afbc_result": "e51da18e86cb35dad5ce0cb91bc0e919"
         },
         {
             "name": "SLIST_A_Sony_5",
@@ -1036,7 +1145,8 @@
             "input_file": "SLIST_A_Sony_5/SLIST_A_Sony_5.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "b00bc5362e6fad1a0e704aad8e69b863"
+            "result": "b00bc5362e6fad1a0e704aad8e69b863",
+            "afbc_result": "2fb5d952a81bb0a36c655920bc0ae692"
         },
         {
             "name": "SLIST_B_Sony_9",
@@ -1045,7 +1155,8 @@
             "input_file": "SLIST_B_Sony_9/SLIST_B_Sony_9.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "312b4ebb3e885587d5e12b78aa95977a"
+            "result": "312b4ebb3e885587d5e12b78aa95977a",
+            "afbc_result": "6fa14bbde84f8bad9fb07b403af93df2"
         },
         {
             "name": "SLIST_C_Sony_4",
@@ -1054,7 +1165,8 @@
             "input_file": "SLIST_C_Sony_4/SLIST_C_Sony_4.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "61024c25cbd60e9bf86dbe3bc5b9b48b"
+            "result": "61024c25cbd60e9bf86dbe3bc5b9b48b",
+            "afbc_result": "00d521a6c6b8674f883965c729f76881"
         },
         {
             "name": "SLIST_D_Sony_9",
@@ -1063,7 +1175,8 @@
             "input_file": "SLIST_D_Sony_9/str.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "8d38ce43b17627ff1f86e526bfb7ffc4"
+            "result": "8d38ce43b17627ff1f86e526bfb7ffc4",
+            "afbc_result": "36582c91c53facc4d12f38efeda7fb64"
         },
         {
             "name": "SLPPLP_A_VIDYO_2",
@@ -1072,7 +1185,8 @@
             "input_file": "SLPPLP_A_VIDYO_2/SLPPLP_A_VIDYO_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "99e13916ede2bc9b77718787579104a9"
+            "result": "99e13916ede2bc9b77718787579104a9",
+            "afbc_result": "d4f4ad80bd302176d5e7eacb7bf5693e"
         },
         {
             "name": "STRUCT_A_Samsung_7",
@@ -1081,7 +1195,8 @@
             "input_file": "STRUCT_A_Samsung_7.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "02f02cc9a67222004ae18ee6bebd475a"
+            "result": "02f02cc9a67222004ae18ee6bebd475a",
+            "afbc_result": "776af7b17b60db16d541439adb442c50"
         },
         {
             "name": "STRUCT_B_Samsung_7",
@@ -1090,7 +1205,8 @@
             "input_file": "STRUCT_B_Samsung_7.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1f472e014aff120681e8482c8a04ef93"
+            "result": "1f472e014aff120681e8482c8a04ef93",
+            "afbc_result": "212d626bf1c0e6e135549270bfa172bd"
         },
         {
             "name": "TILES_A_Cisco_2",
@@ -1099,7 +1215,8 @@
             "input_file": "TILES_A_Cisco_2/TILES_A_Cisco_2.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "946f0771fa87d49f684f96871c9c3c88"
+            "result": "946f0771fa87d49f684f96871c9c3c88",
+            "afbc_result": "89a9488d0b6bf69773c9b1603ee4cec8"
         },
         {
             "name": "TILES_B_Cisco_1",
@@ -1108,7 +1225,8 @@
             "input_file": "TILES_B_Cisco_1/TILES_B_Cisco_1.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "3382291f2b19ee2d760647d4cc756e95"
+            "result": "3382291f2b19ee2d760647d4cc756e95",
+            "afbc_result": "103783ff209f50f836ee81613b5a570b"
         },
         {
             "name": "TMVP_A_MS_3",
@@ -1117,7 +1235,8 @@
             "input_file": "TMVP_A_MS_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "168f8096e56b8a8c1aa03fa5fffdfd23"
+            "result": "168f8096e56b8a8c1aa03fa5fffdfd23",
+            "afbc_result": "598958e30c8a885e62be48887bbd2dd1"
         },
         {
             "name": "TSCL_A_VIDYO_5",
@@ -1126,7 +1245,8 @@
             "input_file": "TSCL_A_VIDYO_5/TSCL_A_VIDYO_5.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "27cbe23eabe1b174d745c286cc2ed8ff"
+            "result": "27cbe23eabe1b174d745c286cc2ed8ff",
+            "afbc_result": "4ab839c8082a74b234ad2a265f3678cb"
         },
         {
             "name": "TSCL_B_VIDYO_4",
@@ -1135,7 +1255,8 @@
             "input_file": "TSCL_B_VIDYO_4/TSCL_B_VIDYO_4.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "95e7910b85c08a01e2e9ce72c92d7d62"
+            "result": "95e7910b85c08a01e2e9ce72c92d7d62",
+            "afbc_result": "6bc8a7a191b2e744c0a904524fe6454d"
         },
         {
             "name": "TSKIP_A_MS_3",
@@ -1144,7 +1265,8 @@
             "input_file": "TSKIP_A_MS_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "4280cb848219176f4fcad51f3290210d"
+            "result": "4280cb848219176f4fcad51f3290210d",
+            "afbc_result": "7d24f0a24220f6008225e3625b07308f"
         },
         {
             "name": "TSUNEQBD_A_MAIN10_Technicolor_2",
@@ -1153,7 +1275,8 @@
             "input_file": "TSUNEQBD_A_MAIN10_Technicolor_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "1bed23df7253170eeb8efc3fd1b740a3"
+            "result": "1bed23df7253170eeb8efc3fd1b740a3",
+            "afbc_result": "18b11c8d38b35cd752c33540b16d5353"
         },
         {
             "name": "TUSIZE_A_Samsung_1",
@@ -1162,7 +1285,8 @@
             "input_file": "TUSIZE_A_Samsung_1.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "5e6c198c852e92cdcca0e137fc2610c4"
+            "result": "5e6c198c852e92cdcca0e137fc2610c4",
+            "afbc_result": "98acf414a5ee4a7a3910b73e27aa35c1"
         },
         {
             "name": "VPSID_A_VIDYO_2",
@@ -1171,7 +1295,8 @@
             "input_file": "VPSID_A_VIDYO_2/VPSID_A_VIDYO_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "99e13916ede2bc9b77718787579104a9"
+            "result": "99e13916ede2bc9b77718787579104a9",
+            "afbc_result": "d4f4ad80bd302176d5e7eacb7bf5693e"
         },
         {
             "name": "VPSSPSPPS_A_MainConcept_1",
@@ -1180,7 +1305,8 @@
             "input_file": "VPSSPSPPS_A_MainConcept_1.bin",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "1ddf74263cb4953cfdfcf99c563d88ea"
+            "result": "1ddf74263cb4953cfdfcf99c563d88ea",
+            "afbc_result": "883e2a358caefd00a60f2c21755902a7"
         },
         {
             "name": "WP_A_MAIN10_Toshiba_3",
@@ -1189,7 +1315,8 @@
             "input_file": "WP_A_MAIN10_Toshiba_3/WP_A_MAIN10_Toshiba_3.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "c48e853010a234786dc87790d053b03a"
+            "result": "c48e853010a234786dc87790d053b03a",
+            "afbc_result": "6fdb881f267034a16660d52d221e709e"
         },
         {
             "name": "WP_A_Toshiba_3",
@@ -1198,7 +1325,8 @@
             "input_file": "WP_A_Toshiba_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "127b99d0c11c930b6f248750b5848a0b"
+            "result": "127b99d0c11c930b6f248750b5848a0b",
+            "afbc_result": "6634c320d280e215a2be167e7129a643"
         },
         {
             "name": "WP_B_Toshiba_3",
@@ -1207,7 +1335,8 @@
             "input_file": "WP_B_Toshiba_3.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "82d39f8cd09e532b8fa9d35894c96258"
+            "result": "82d39f8cd09e532b8fa9d35894c96258",
+            "afbc_result": "776b53e8c212293b526f5531dfbe8457"
         },
         {
             "name": "WP_MAIN10_B_Toshiba_3",
@@ -1216,7 +1345,8 @@
             "input_file": "WP_MAIN10_B_Toshiba_3.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "ed891c60a17f5cbc64e1848f0ea9cf45"
+            "result": "ed891c60a17f5cbc64e1848f0ea9cf45",
+            "afbc_result": "6f953b6a759b0f96d8615a632218ed75"
         },
         {
             "name": "WPP_A_ericsson_MAIN10_2",
@@ -1225,7 +1355,8 @@
             "input_file": "WPP_A_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "e68b9d75ff9cf1d9486e964051351f69"
+            "result": "e68b9d75ff9cf1d9486e964051351f69",
+            "afbc_result": "dd1629b04448d1bf7520d524d9d53331"
         },
         {
             "name": "WPP_A_ericsson_MAIN_2",
@@ -1234,7 +1365,8 @@
             "input_file": "WPP_A_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "cd7e815eb47e8138fec2185d4de84304"
+            "result": "cd7e815eb47e8138fec2185d4de84304",
+            "afbc_result": "e6ddbb2788aea83906985ee3e3788a89"
         },
         {
             "name": "WPP_B_ericsson_MAIN10_2",
@@ -1243,7 +1375,8 @@
             "input_file": "WPP_B_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "d8290fc1eec3a196aa796c92e71a779b"
+            "result": "d8290fc1eec3a196aa796c92e71a779b",
+            "afbc_result": "d8b6388ebbe19a42e2480a68271f4157"
         },
         {
             "name": "WPP_B_ericsson_MAIN_2",
@@ -1252,7 +1385,8 @@
             "input_file": "WPP_B_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e37c7e561a1226640a7bf98e81df78b1"
+            "result": "e37c7e561a1226640a7bf98e81df78b1",
+            "afbc_result": "7584eb95d26a156921015bd8bfd1e763"
         },
         {
             "name": "WPP_C_ericsson_MAIN10_2",
@@ -1261,7 +1395,8 @@
             "input_file": "WPP_C_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "aadac4d468d5950551d606c1016abc9c"
+            "result": "aadac4d468d5950551d606c1016abc9c",
+            "afbc_result": "0b92765cdc71736436762c0ec3dd3afb"
         },
         {
             "name": "WPP_C_ericsson_MAIN_2",
@@ -1270,7 +1405,8 @@
             "input_file": "WPP_C_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "e067aa3a6a12cd5743849ded793c8d3f"
+            "result": "e067aa3a6a12cd5743849ded793c8d3f",
+            "afbc_result": "219bc7737debfc60471afc79ea5ebbff"
         },
         {
             "name": "WPP_D_ericsson_MAIN10_2",
@@ -1279,7 +1415,8 @@
             "input_file": "WPP_D_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "dde9aa65b78a8ca5602d834f234655d4"
+            "result": "dde9aa65b78a8ca5602d834f234655d4",
+            "afbc_result": "4beae06a22d22d04f912e0188bb3f80f"
         },
         {
             "name": "WPP_D_ericsson_MAIN_2",
@@ -1288,7 +1425,8 @@
             "input_file": "WPP_D_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "f710612103f386c415be3e6300693451"
+            "result": "f710612103f386c415be3e6300693451",
+            "afbc_result": "7c7066c0ee56037c42dd951867b6461d"
         },
         {
             "name": "WPP_E_ericsson_MAIN10_2",
@@ -1297,7 +1435,8 @@
             "input_file": "WPP_E_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "f12e746306c59544d6162de0b62c4649"
+            "result": "f12e746306c59544d6162de0b62c4649",
+            "afbc_result": "2f7eb5c56297122fa2791a905f2eb1a2"
         },
         {
             "name": "WPP_E_ericsson_MAIN_2",
@@ -1306,7 +1445,8 @@
             "input_file": "WPP_E_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "485798dbf95ad61232075df2f294aa3f"
+            "result": "485798dbf95ad61232075df2f294aa3f",
+            "afbc_result": "8da1641408390169b92c48276740f698"
         },
         {
             "name": "WPP_F_ericsson_MAIN10_2",
@@ -1315,7 +1455,8 @@
             "input_file": "WPP_F_ericsson_MAIN10_2.bit",
             "profile": "Main 10",
             "output_format": "yuv420p10le",
-            "result": "210055a33d7d912fda6a3c40764b0482"
+            "result": "210055a33d7d912fda6a3c40764b0482",
+            "afbc_result": "7d14acd0ac73dd0dd326b1868a9870ba"
         },
         {
             "name": "WPP_F_ericsson_MAIN_2",
@@ -1324,7 +1465,8 @@
             "input_file": "WPP_F_ericsson_MAIN_2.bit",
             "profile": "Main",
             "output_format": "yuv420p",
-            "result": "2aaf16274fe8e799d72fa08a4963850d"
+            "result": "2aaf16274fe8e799d72fa08a4963850d",
+            "afbc_result": "294d26dfb804abec3314c36bb0fb0040"
         }
     ],
     "test_method": "md5"
