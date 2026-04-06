@@ -108,6 +108,19 @@ def output_format_to_gst(output_format: OutputFormat) -> str:
     return mapping[output_format]
 
 
+def output_format_to_afbc_drm_format(output_format: OutputFormat) -> Optional[str]:
+    """Return the DRM fourcc and AFBC modifier for supported output formats.
+
+    Returns None if the format is not supported with AFBC.
+    """
+    afbc_drm_formats = {
+        OutputFormat.YUV420P: "YU08:0x0800000000000061",
+        OutputFormat.YUV420P10LE: "YU10:0x0800000000000061",
+    }
+
+    return afbc_drm_formats.get(output_format)
+
+
 class GStreamer(Decoder):
     """Base class for GStreamer decoders"""
 
@@ -250,6 +263,55 @@ class GStreamerVideo(GStreamer):
             self.decoder_bin,
             caps,
             self._get_sink_for_format(output_format),
+            output,
+        )
+
+
+class GStreamerVideoAFBC(GStreamerVideo):
+    """Base class for GStreamer 1.x video decoders with AFBC output.
+
+    For AFBC-supported formats (currently YUV420 8/10 bit), the pipeline uses DMABuf
+    memory with DRM modifiers and converts through OpenGL:
+      v4l2sl*dec ! DMABuf caps ! glupload ! glcolorconvert ! gldownload ! videoconvert
+    """
+
+    def gen_pipeline(
+        self,
+        input_filepath: str,
+        output_filepath: Optional[str],
+        output_format: OutputFormat,
+    ) -> str:
+        drm_format = output_format_to_afbc_drm_format(output_format)
+        if drm_format is None:
+            print(
+                f"WARNING: DRM format of test vector {os.path.basename(input_filepath)} could not be matched. "
+                f"Missing DRM format for output format: {output_format}"
+            )
+
+        raw_caps = "video/x-raw"
+        try:
+            raw_caps += f",format={output_format_to_gst(output_format)}"
+        except KeyError as key_error:
+            print(
+                f"WARNING: Output format of test vector {os.path.basename(input_filepath)} could not be matched. "
+                f"Missing output format: {key_error}"
+            )
+
+        afbc_caps = (
+            f'"video/x-raw(memory:DMABuf),format=DMA_DRM,drm-format={drm_format}"'
+            f" ! glupload ! glcolorconvert"
+            f' ! "video/x-raw(memory:GLMemory),format={output_format_to_gst(output_format)}"'
+            f" ! gldownload"
+            f" ! videoconvert dither=none ! {raw_caps}"
+        )
+        output = f"location={output_filepath}" if output_filepath else ""
+        return PIPELINE_TPL.format(
+            self.cmd,
+            input_filepath,
+            self.parser if self.parser else "parsebin",
+            self.decoder_bin,
+            afbc_caps,
+            self.sink,
             output,
         )
 
@@ -815,6 +877,51 @@ class GStreamerLibavMPEG4VideoDecoder(GStreamerVideo):
     codec = Codec.MPEG4_VIDEO
     decoder_bin = " avdec_mpeg4 "
     api = "Libav"
+
+
+@register_decoder
+class GStreamerV4l2CodecsH264AFBCDecoder(GStreamerVideoAFBC):
+    """GStreamer H.264 V4L2 stateless AFBC decoder implementation for GStreamer"""
+
+    codec = Codec.H264
+    decoder_bin = " v4l2slh264dec "
+    api = "V4L2SL-AFBC"
+
+
+@register_decoder
+class GStreamerV4l2CodecsH265AFBCDecoder(GStreamerVideoAFBC):
+    """GStreamer H.265 V4L2 stateless AFBC decoder implementation for GStreamer"""
+
+    codec = Codec.H265
+    decoder_bin = " v4l2slh265dec "
+    api = "V4L2SL-AFBC"
+
+
+@register_decoder
+class GStreamerV4l2CodecsVP8AFBCDecoder(GStreamerVideoAFBC):
+    """GStreamer VP8 V4L2 stateless AFBC decoder implementation for GStreamer"""
+
+    codec = Codec.VP8
+    decoder_bin = " v4l2slvp8dec "
+    api = "V4L2SL-AFBC"
+
+
+@register_decoder
+class GStreamerV4l2CodecsVP9AFBCDecoder(GStreamerVideoAFBC):
+    """GStreamer VP9 V4L2 stateless AFBC decoder implementation for GStreamer"""
+
+    codec = Codec.VP9
+    decoder_bin = " v4l2slvp9dec "
+    api = "V4L2SL-AFBC"
+
+
+@register_decoder
+class GStreamerV4l2CodecsAV1AFBCDecoder(GStreamerVideoAFBC):
+    """GStreamer AV1 V4L2 stateless AFBC decoder implementation for GStreamer"""
+
+    codec = Codec.AV1
+    decoder_bin = " v4l2slav1dec "
+    api = "V4L2SL-AFBC"
 
 
 @register_decoder
